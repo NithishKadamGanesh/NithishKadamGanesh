@@ -1,0 +1,28 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .card { fill: #ffffff; stroke: #e0e0e0; stroke-width:1; rx:10; }
+    .title { font: bold 16px sans-serif; fill: #e53e3e; }
+    .desc  { font: 12px sans-serif; fill: #333333; }
+    .link  { font: 12px sans-serif; fill: #0077cc; text-decoration: underline; cursor: pointer; }
+  </style>
+
+  <!-- card background -->
+  <rect x="0.5" y="0.5" width="399" height="199" rx="10" class="card"/>
+
+  <!-- project screenshot -->
+  <image x="10" y="10" width="120" height="80" xlink:href="./FudgetImage.png"/>
+
+  <!-- text content -->
+  <text x="140" y=" thirty" class="title">Fudget</text>
+  <text x="140" y="55"  class="desc">Recipe app detecting ingredients</text>
+  <text x="140" y="70"  class="desc">and recommending meals via CreateML.</text>
+  <text x="140" y="90"  class="desc">Stack: Swift · CreateML · REST APIs</text>
+
+  <!-- links -->
+  <a xlink:href="https://github.com/NithishKadamGanesh/Fudget">
+    <text x="140" y="115" class="link">🔗 GitHub Repo</text>
+  </a>
+  <a xlink:href="https://drive.google.com/file/d/1RtRBs0T4OZkdz-leR3FLga_iukto22Cb/view">
+    <text x="260" y="115" class="link">📽️ Video Demo</text>
+  </a>
+</svg>
