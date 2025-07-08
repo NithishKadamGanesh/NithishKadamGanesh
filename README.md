@@ -1,6 +1,18 @@
-<!-- Top Banner -->
-<p align="center">
-  <img src="./top.png" alt="Top Banner" height="120" width="100%" />
+<p>
+  <!-- the full-width banner -->
+  <img 
+    src="./top.png" 
+    alt="Top Banner" 
+    width="100%" 
+    height="120" 
+  />
+  <!-- your personal logo, floated right -->
+  <img 
+    src="./Logo.png" 
+    alt="NK Logo" 
+    align="Left" 
+    width="100" 
+  />
 </p>
 
 # 👋 Hey, I'm Nithish Kadam  
