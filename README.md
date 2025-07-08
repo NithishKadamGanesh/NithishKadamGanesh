@@ -99,9 +99,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-plain.svg"            height="40"/>
 </p>
 
-## 📜 Certifications  
-[![AWS CSA – Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?logo=amazon-aws&logoColor=white)]()
-
+## 📜 Certifications   
+<p align="left">
+  <a href="https://www.credly.com/badges/0fc14dba-6af4-4cba-8aee-074ec4a24aa1/public_url" target="_blank">
+    <img
+      src="./aws-certified-solutions-architect-associate.png"
+      alt="AWS Certified Solutions Architect – Associate"
+      width="100"
+    />
+  </a>
+</p>
 
 ## ✨ Fun Facts  
 - 🏗 I love architecting real-time systems under pressure  
