@@ -102,7 +102,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"          height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"      height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"            height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restfulapi/restfulapi-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"      height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"        height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"          height="40"/>
