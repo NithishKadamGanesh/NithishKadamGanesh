@@ -15,7 +15,7 @@
   />
 </p>
 
-# 👋 Hey, I'm Nithish Kadam  
+# 👋 Hey, I'm Nithish  
 🎓 MS in Computer Science @ Northeastern (GPA 4.0)  
 💼 Software Engineer | Wintergreen Intern | Ex–Manhattan Associates  
 ☁️ AWS Certified Solutions Architect – Associate  
