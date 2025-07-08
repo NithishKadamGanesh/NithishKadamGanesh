@@ -11,11 +11,12 @@
     src="./Logo.png" 
     alt="NK Logo" 
     align="Left" 
-    width="100" 
+    width="80" 
   />
 </p>
 
 # 👋 Hey, I'm Nithish  
+
 🎓 MS in Computer Science @ Northeastern (GPA 4.0)  
 💼 Software Engineer | Wintergreen Intern | Ex–Manhattan Associates  
 ☁️ AWS Certified Solutions Architect – Associate  
