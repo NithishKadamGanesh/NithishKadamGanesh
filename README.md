@@ -51,5 +51,3 @@
 [LinkedIn](https://www.linkedin.com/in/nithishkadam/) | [GitHub](https://github.com/NithishKadamGanesh) | 📧 nithishkadam@gmail.com
 
 ---
-
-![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithishKadamGanesh&show_icons=true&theme=radical)
