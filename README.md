@@ -79,9 +79,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"       height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"   height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"           height="40"/>
-</p>
-<p align="left">
-  CreateML · CoreML
+  <img src="./createML.png" height="50" alt="Create ML"/>
+  <img src="./coreML.png"   height="50" alt="Core ML"/>
 </p>
 
 ## 🗄️ Databases & Cloud  
