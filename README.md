@@ -7,20 +7,7 @@
 🎓 MS in Computer Science @ Northeastern (GPA 4.0)  
 💼 Backend + Systems Engineer | Wintergreen Intern | Ex–Manhattan Associates  
 ☁️ AWS Certified Solutions Architect – Associate  
-🔗 [![Resume](https://img.shields.io/badge/Resume-PDF-brightgreen)](./Nithish_Resume.pdf)  
-🛠️ Obsessed with building scalable, real-time systems.  
-
----
-
-## 📖 Table of Contents
-- [📊 GitHub Stats](#📊-github-stats)  
-- [🚀 Projects](#🚀-projects)  
-- [💻 Programming Languages](#💻-programming-languages)  
-- [🛠️ Frameworks & Tools](#🛠️-frameworks--tools)  
-- [🗄️ Databases & Cloud](#🗄️-databases--cloud)  
-- [✨ Fun Facts](#✨-fun-facts)  
-- [☕ Let's Connect](#☕-lets-connect)  
-
+🔗 [![Resume](https://img.shields.io/badge/Resume-PDF-brightgreen)](./Nithish_Resume.pdf) 
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -92,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"           height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"                     height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-plain.svg"             height="40"/>
+  <img src="./cloudinary.jpg"    height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"         height="40"/>
 </p>
 
