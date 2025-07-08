@@ -5,15 +5,9 @@
 
 # 👋 Hey, I'm Nithish Kadam  
 🎓 MS in Computer Science @ Northeastern (GPA 4.0)  
-💼 Backend + Systems Engineer | Wintergreen Intern | Ex–Manhattan Associates  
+💼 Software Engineer | Wintergreen Intern | Ex–Manhattan Associates  
 ☁️ AWS Certified Solutions Architect – Associate  
 🔗 [![Resume](https://img.shields.io/badge/Resume-PDF-brightgreen)](./Nithish_Resume.pdf) 
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishKadamGanesh&layout=compact&theme=radical" width="50%" />
-</p>
-
 
 ## 🚀 Projects
 <table>
@@ -36,7 +30,7 @@
       </a><br><br>
       <b>Fudget</b><br>
       <sub>
-        A recipe app that detects ingredients & recommends meals using CreateML + Spoonacular API.<br>
+        A recipe app that detects ingredients & recommends recipes <br>
         <b>Stack:</b> Swift · CreateML · REST APIs<br>
         🔗 <a href="https://github.com/NithishKadamGanesh/Fudget">GitHub Repo</a> |
         📽️ <a href="https://drive.google.com/file/d/1RtRBs0T4OZkdz-leR3FLga_iukto22Cb/view">Video Demo</a>
@@ -102,20 +96,29 @@
 ## 📜 Certifications   
 <p align="left">
   <a href="https://www.credly.com/badges/0fc14dba-6af4-4cba-8aee-074ec4a24aa1/public_url" target="_blank">
-    <img
-      src="./aws-certified-solutions-architect-associate.png"
-      alt="AWS Certified Solutions Architect – Associate"
-      width="100"
+    <!-- your local PNG -->
+    <img 
+      src="./aws-certified-solutions-architect-associate.png" 
+      alt="AWS Certified Solutions Architect – Associate" 
+      width="40" 
+      style="vertical-align: middle;"
+    />
+    <!-- shields.io badge as an <img> -->
+    <img 
+      src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?logo=amazon-aws&logoColor=white" 
+      alt="AWS CSA – Associate" 
+      style="vertical-align: middle; margin-left: 8px;"
     />
   </a>
 </p>
 
-## ✨ Fun Facts  
-- 🏗 I love architecting real-time systems under pressure  
-- 🌱 Currently exploring distributed tracing & observability  
-- 📱 Building mobile & web apps with real-world impact  
-- 📷 I enjoy capturing stories with code & the occasional manhwa binge  
 
+## ✨ Fun Facts  
+- ⚽ Die-hard Chelsea FC fan—there’s nothing like the roar at Stamford Bridge when “Blue is the Colour” hits!  
+- 🏎️ Formula 1 fan, especially Max Verstappen’s precision on track.  
+- 🏏 Loyal RCB supporter—through every IPL high and low, I back the Men in Red with unwavering passion.  
+- 🥊 State amateur boxing bronze medalist—ring-tested and always up for a new challenge.
+- 📖 Manga & Manhwa fan—always chasing the next epic chapter. 
 
 ## ☕ Let's Connect  
 <p align="center">
@@ -125,9 +128,6 @@
   &nbsp;
   <a href="mailto:nithishkadam@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
 </p>
-
----
-
 <!-- Bottom Banner -->
 <p align="center">
   <img src="./bottom.png" alt="Bottom Banner" height="120" width="100%" />
