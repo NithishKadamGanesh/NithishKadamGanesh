@@ -1,106 +1,88 @@
-<svg width="1280" height="540" viewBox="0 0 1280 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Nithish Kadam Ganesh profile hero</title>
-  <desc id="desc">A futuristic dashboard style banner highlighting Nithish Kadam Ganesh as a backend and full-stack engineer.</desc>
+<svg width="1280" height="520" viewBox="0 0 1280 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nithish Kadam Ganesh hero panel</title>
+  <desc id="desc">A modern profile hero for Nithish Kadam Ganesh with a clean dark editorial layout.</desc>
   <defs>
-    <linearGradient id="bg" x1="70" y1="40" x2="1210" y2="500" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111C"/>
-      <stop offset="0.52" stop-color="#0D2438"/>
-      <stop offset="1" stop-color="#07131D"/>
+    <linearGradient id="bg" x1="50" y1="30" x2="1220" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131E"/>
+      <stop offset="0.52" stop-color="#0C2434"/>
+      <stop offset="1" stop-color="#09151F"/>
     </linearGradient>
-    <linearGradient id="panel" x1="730" y1="70" x2="1190" y2="470" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#11263B" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#0A1622" stop-opacity="0.86"/>
-    </linearGradient>
-    <linearGradient id="cardA" x1="800" y1="120" x2="1180" y2="220" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#143A5A"/>
-      <stop offset="1" stop-color="#0B2436"/>
-    </linearGradient>
-    <linearGradient id="cardB" x1="790" y1="250" x2="980" y2="350" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#123B35"/>
-      <stop offset="1" stop-color="#0A201C"/>
-    </linearGradient>
-    <linearGradient id="cardC" x1="990" y1="250" x2="1180" y2="350" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#412B18"/>
-      <stop offset="1" stop-color="#24170D"/>
-    </linearGradient>
-    <linearGradient id="cardD" x1="790" y1="380" x2="1180" y2="450" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1A2536"/>
-      <stop offset="1" stop-color="#121926"/>
-    </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 88) rotate(35) scale(230 170)">
-      <stop stop-color="#26D7FF" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#26D7FF" stop-opacity="0"/>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128 92) rotate(25) scale(210 150)">
+      <stop stop-color="#23D6FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#23D6FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1160 118) rotate(160) scale(250 180)">
-      <stop stop-color="#7EF8D2" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#7EF8D2" stop-opacity="0"/>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1126 80) rotate(160) scale(240 180)">
+      <stop stop-color="#8BF5D9" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8BF5D9" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1028 436) rotate(20) scale(210 160)">
-      <stop stop-color="#FFD86B" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#FFD86B" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#7ED7FF" stroke-opacity="0.10" stroke-width="1"/>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#7DD8FF" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
-    <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="40"/>
-    </filter>
+    <linearGradient id="panelMain" x1="744" y1="76" x2="1204" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#112A41" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#0C1D2B" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="panelA" x1="744" y1="252" x2="964" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122D43"/>
+      <stop offset="1" stop-color="#0D2030"/>
+    </linearGradient>
+    <linearGradient id="panelB" x1="980" y1="252" x2="1204" y2="364" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#13352C"/>
+      <stop offset="1" stop-color="#0C221C"/>
+    </linearGradient>
+    <linearGradient id="panelC" x1="744" y1="380" x2="1204" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171F2D"/>
+      <stop offset="1" stop-color="#111824"/>
+    </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#02060A" flood-opacity="0.48"/>
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#010407" flood-opacity="0.40"/>
     </filter>
   </defs>
 
-  <rect width="1280" height="540" rx="34" fill="url(#bg)"/>
-  <rect width="1280" height="540" rx="34" fill="url(#grid)"/>
+  <rect width="1280" height="520" rx="36" fill="url(#bg)"/>
+  <rect width="1280" height="520" rx="36" fill="url(#grid)"/>
+  <circle cx="128" cy="92" r="164" fill="url(#glowA)"/>
+  <circle cx="1126" cy="80" r="194" fill="url(#glowB)"/>
 
-  <circle cx="170" cy="88" r="178" fill="url(#glowA)" filter="url(#softBlur)"/>
-  <circle cx="1160" cy="118" r="200" fill="url(#glowB)" filter="url(#softBlur)"/>
-  <circle cx="1028" cy="436" r="156" fill="url(#glowC)" filter="url(#softBlur)"/>
+  <rect x="60" y="52" width="208" height="36" rx="18" fill="#0C1F2E" fill-opacity="0.94" stroke="#61D8FF" stroke-opacity="0.24"/>
+  <text x="88" y="76" fill="#A6EDFF" font-family="Verdana, Arial, sans-serif" font-size="15" letter-spacing="1.7">BACKEND / FULL-STACK</text>
 
-  <rect x="58" y="54" width="232" height="38" rx="19" fill="#0C2030" fill-opacity="0.92" stroke="#5AD8FF" stroke-opacity="0.46"/>
-  <text x="82" y="79" fill="#9DE8FF" font-family="Verdana, Arial, sans-serif" font-size="16" letter-spacing="2">PROFILE MODE : ACTIVE</text>
+  <text x="64" y="170" fill="#F5FBFF" font-family="Verdana, Arial, sans-serif" font-size="78" font-weight="700">Nithish</text>
+  <text x="64" y="246" fill="#F5FBFF" font-family="Verdana, Arial, sans-serif" font-size="74" font-weight="700">Kadam Ganesh</text>
 
-  <text x="72" y="165" fill="#F4FBFF" font-family="Verdana, Arial, sans-serif" font-size="66" font-weight="700">Nithish</text>
-  <text x="72" y="238" fill="#F4FBFF" font-family="Verdana, Arial, sans-serif" font-size="62" font-weight="700">Kadam Ganesh</text>
-  <text x="72" y="290" fill="#93DEFF" font-family="Verdana, Arial, sans-serif" font-size="24">Backend . Platform . Full-stack Engineer</text>
+  <text x="64" y="302" fill="#9DDEFF" font-family="Verdana, Arial, sans-serif" font-size="29">Reliable cloud systems</text>
+  <text x="64" y="338" fill="#9DDEFF" font-family="Verdana, Arial, sans-serif" font-size="29">with product-grade execution</text>
 
-  <text x="72" y="340" fill="#D7ECF7" font-family="Verdana, Arial, sans-serif" font-size="20">Building software that feels sharp in architecture and intentional in interface.</text>
-  <text x="72" y="372" fill="#BFD9E8" font-family="Verdana, Arial, sans-serif" font-size="18">M.S. CS at Northeastern | Ex-Manhattan Associates | AWS Certified Solutions Architect</text>
+  <text x="64" y="390" fill="#DAEBF6" font-family="Verdana, Arial, sans-serif" font-size="21">M.S. Computer Science at Northeastern</text>
+  <text x="64" y="420" fill="#C4D7E4" font-family="Verdana, Arial, sans-serif" font-size="19">Ex-Manhattan Associates • AWS Solutions Architect Associate</text>
 
-  <rect x="72" y="404" width="248" height="44" rx="22" fill="#101E31" stroke="#67D6FF" stroke-opacity="0.26"/>
-  <text x="104" y="432" fill="#E8F8FF" font-family="Verdana, Arial, sans-serif" font-size="18">Distributed Systems</text>
+  <rect x="64" y="448" width="194" height="42" rx="21" fill="#101E31" stroke="#66D6FF" stroke-opacity="0.18"/>
+  <text x="98" y="475" fill="#F1FBFF" font-family="Verdana, Arial, sans-serif" font-size="17">Open to SWE roles</text>
 
-  <rect x="338" y="404" width="222" height="44" rx="22" fill="#101E31" stroke="#67D6FF" stroke-opacity="0.26"/>
-  <text x="372" y="432" fill="#E8F8FF" font-family="Verdana, Arial, sans-serif" font-size="18">Cloud and APIs</text>
+  <rect x="274" y="448" width="144" height="42" rx="21" fill="#101E31" stroke="#66D6FF" stroke-opacity="0.18"/>
+  <text x="312" y="475" fill="#F1FBFF" font-family="Verdana, Arial, sans-serif" font-size="17">Boston, MA</text>
 
-  <rect x="578" y="404" width="188" height="44" rx="22" fill="#101E31" stroke="#67D6FF" stroke-opacity="0.26"/>
-  <text x="613" y="432" fill="#E8F8FF" font-family="Verdana, Arial, sans-serif" font-size="18">Product UI</text>
+  <rect x="434" y="448" width="218" height="42" rx="21" fill="#101E31" stroke="#66D6FF" stroke-opacity="0.18"/>
+  <text x="468" y="475" fill="#F1FBFF" font-family="Verdana, Arial, sans-serif" font-size="17">Java • Go • FastAPI</text>
 
-  <text x="72" y="490" fill="#7BB8D4" font-family="Verdana, Arial, sans-serif" font-size="16">Boston, MA | Open to software engineering roles across backend, platform, cloud, and product teams</text>
+  <rect x="744" y="76" width="462" height="156" rx="30" fill="url(#panelMain)" stroke="#86E3FF" stroke-opacity="0.18" filter="url(#shadow)"/>
+  <text x="776" y="114" fill="#91DEFF" font-family="Verdana, Arial, sans-serif" font-size="15" letter-spacing="1.2">CURRENT BUILD</text>
+  <text x="776" y="170" fill="#F6FCFF" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="700">Arcanum</text>
+  <text x="776" y="204" fill="#CFE0EB" font-family="Verdana, Arial, sans-serif" font-size="19">Live campus puzzle platform with auth, hints,</text>
+  <text x="776" y="229" fill="#CFE0EB" font-family="Verdana, Arial, sans-serif" font-size="19">leaderboards, and answer-feedback systems.</text>
 
-  <rect x="748" y="48" width="484" height="444" rx="30" fill="url(#panel)" stroke="#95E5FF" stroke-opacity="0.18" filter="url(#shadow)"/>
-  <text x="782" y="88" fill="#7FD6FF" font-family="Verdana, Arial, sans-serif" font-size="16" letter-spacing="2">CURRENT SIGNAL</text>
-  <circle cx="1154" cy="80" r="6" fill="#7EF8D2"/>
-  <circle cx="1176" cy="80" r="6" fill="#FFD86B"/>
-  <circle cx="1198" cy="80" r="6" fill="#4CB9FF"/>
+  <rect x="744" y="252" width="212" height="112" rx="28" fill="url(#panelA)" stroke="#8BE4FF" stroke-opacity="0.16" filter="url(#shadow)"/>
+  <text x="776" y="292" fill="#9FE8FF" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">EVENT SCALE</text>
+  <text x="850" y="328" text-anchor="middle" fill="#F6FCFF" font-family="Verdana, Arial, sans-serif" font-size="31" font-weight="700">140+</text>
+  <text x="850" y="350" text-anchor="middle" fill="#D6E8F6" font-family="Verdana, Arial, sans-serif" font-size="16">players</text>
 
-  <rect x="780" y="112" width="420" height="102" rx="24" fill="url(#cardA)" stroke="#83E3FF" stroke-opacity="0.18"/>
-  <text x="804" y="146" fill="#91DEFF" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.2">ARCANUM LIVE PLATFORM</text>
-  <text x="804" y="182" fill="#F6FCFF" font-family="Verdana, Arial, sans-serif" font-size="30" font-weight="700">140+ players | 12K+ submissions</text>
-  <text x="804" y="202" fill="#B8D7E9" font-family="Verdana, Arial, sans-serif" font-size="14">10-hour event with leaderboard, hint, and answer-feedback systems</text>
+  <rect x="980" y="252" width="226" height="112" rx="28" fill="url(#panelB)" stroke="#8BF5D9" stroke-opacity="0.16" filter="url(#shadow)"/>
+  <text x="1012" y="292" fill="#9AF4DD" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">LIVE LOAD</text>
+  <text x="1093" y="328" text-anchor="middle" fill="#F6FCFF" font-family="Verdana, Arial, sans-serif" font-size="31" font-weight="700">12K+</text>
+  <text x="1093" y="350" text-anchor="middle" fill="#D6E8F6" font-family="Verdana, Arial, sans-serif" font-size="16">submissions</text>
 
-  <rect x="780" y="232" width="198" height="112" rx="24" fill="url(#cardB)" stroke="#7EF8D2" stroke-opacity="0.18"/>
-  <text x="804" y="266" fill="#89F3D5" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">CERTIFICATION</text>
-  <text x="804" y="308" fill="#F6FCFF" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700">AWS SAA</text>
-  <text x="804" y="328" fill="#B9D8D1" font-family="Verdana, Arial, sans-serif" font-size="14">Solutions Architect - Associate</text>
-
-  <rect x="1002" y="232" width="198" height="112" rx="24" fill="url(#cardC)" stroke="#FFD86B" stroke-opacity="0.20"/>
-  <text x="1026" y="266" fill="#FFD86B" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">STATUS</text>
-  <text x="1026" y="308" fill="#FFFDF6" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700">Open to</text>
-  <text x="1026" y="332" fill="#FFF3D5" font-family="Verdana, Arial, sans-serif" font-size="20">software roles</text>
-
-  <rect x="780" y="362" width="420" height="98" rx="24" fill="url(#cardD)" stroke="#9AC7FF" stroke-opacity="0.16"/>
-  <text x="804" y="396" fill="#9EBFFF" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">STACK VECTOR</text>
-  <text x="804" y="428" fill="#F5FBFF" font-family="Verdana, Arial, sans-serif" font-size="24" font-weight="700">Java . Go . FastAPI . React . Cloud</text>
-  <text x="804" y="448" fill="#C6D8E7" font-family="Verdana, Arial, sans-serif" font-size="14">Backend depth with product instincts and a bias for practical, shippable systems</text>
+  <rect x="744" y="380" width="462" height="92" rx="28" fill="url(#panelC)" stroke="#9CC8FF" stroke-opacity="0.15" filter="url(#shadow)"/>
+  <text x="776" y="416" fill="#A8C7FF" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">STACK</text>
+  <text x="975" y="444" text-anchor="middle" fill="#F6FCFF" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700">React • FastAPI • PostgreSQL</text>
+  <text x="975" y="464" text-anchor="middle" fill="#D7E6F3" font-family="Verdana, Arial, sans-serif" font-size="16">SQLAlchemy • Auth • Realtime</text>
 </svg>

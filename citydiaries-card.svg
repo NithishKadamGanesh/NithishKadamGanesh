@@ -1,50 +1,44 @@
-<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">CityDiaries showcase card</title>
-  <desc id="desc">A warm editorial style project card for CityDiaries.</desc>
+<svg width="1120" height="280" viewBox="0 0 1120 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CityDiaries project card</title>
+  <desc id="desc">A modern full-width project card for CityDiaries.</desc>
   <defs>
-    <linearGradient id="bg" x1="20" y1="10" x2="390" y2="250" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2B0F12"/>
-      <stop offset="0.45" stop-color="#5A1D22"/>
-      <stop offset="1" stop-color="#2A1112"/>
+    <linearGradient id="bg" x1="20" y1="10" x2="1100" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A1115"/>
+      <stop offset="0.54" stop-color="#5A1E25"/>
+      <stop offset="1" stop-color="#291013"/>
     </linearGradient>
-    <linearGradient id="pill" x1="24" y1="22" x2="160" y2="50" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6A2228"/>
-      <stop offset="1" stop-color="#4E1A1E"/>
+    <linearGradient id="chip" x1="36" y1="32" x2="170" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6C242B"/>
+      <stop offset="1" stop-color="#4D1A1F"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(336 66) rotate(45) scale(98 72)">
-      <stop stop-color="#FF926F" stop-opacity="0.48"/>
-      <stop offset="1" stop-color="#FF926F" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(952 56) rotate(26) scale(220 130)">
+      <stop stop-color="#FF936F" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#FF936F" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#FFB39D" stroke-opacity="0.10" stroke-width="1"/>
+      <path d="M30 0H0V30" fill="none" stroke="#FFB18D" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="420" height="260" rx="28" fill="url(#bg)"/>
-  <rect width="420" height="260" rx="28" fill="url(#grid)"/>
-  <rect x="1" y="1" width="418" height="258" rx="27" fill="none" stroke="#FFB08B" stroke-opacity="0.18"/>
-  <circle cx="336" cy="66" r="92" fill="url(#glow)"/>
+  <rect width="1120" height="280" rx="30" fill="url(#bg)"/>
+  <rect width="1120" height="280" rx="30" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1118" height="278" rx="29" fill="none" stroke="#FFB08C" stroke-opacity="0.16"/>
+  <circle cx="952" cy="56" r="198" fill="url(#glow)"/>
 
-  <path d="M284 182C307 158 328 138 350 122C366 110 381 102 394 98" fill="none" stroke="#FFAF8A" stroke-width="3" stroke-opacity="0.78"/>
-  <path d="M286 182C306 198 324 209 340 216C359 224 376 228 395 229" fill="none" stroke="#FFD0B7" stroke-width="2" stroke-opacity="0.48"/>
-  <circle cx="286" cy="182" r="9" fill="#FFF2E8"/>
-  <path d="M338 74C338 89 326 100 311 100C296 100 284 89 284 74C284 59 296 47 311 47C326 47 338 59 338 74Z" fill="none" stroke="#FFD2BA" stroke-opacity="0.70" stroke-width="2"/>
-  <circle cx="311" cy="74" r="6" fill="#FFD6C1"/>
+  <path d="M824 208C862 175 903 147 949 124C990 105 1029 90 1076 82" fill="none" stroke="#FFB08A" stroke-opacity="0.78" stroke-width="4"/>
+  <path d="M828 210C865 231 899 245 937 252C977 259 1021 259 1074 254" fill="none" stroke="#FFD1B8" stroke-opacity="0.42" stroke-width="3"/>
+  <circle cx="816" cy="210" r="11" fill="#FFF1E8"/>
+  <circle cx="934" cy="92" r="36" fill="none" stroke="#FFD0B7" stroke-opacity="0.68" stroke-width="3"/>
+  <circle cx="934" cy="92" r="8" fill="#FFE0D0"/>
 
-  <rect x="24" y="22" width="128" height="30" rx="15" fill="url(#pill)" stroke="#FFB18C" stroke-opacity="0.22"/>
-  <text x="42" y="42" fill="#FFD7C4" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.4">SHOWCASE 02</text>
-  <text x="24" y="86" fill="#FFBF9E" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.1">TRAVEL DISCOVERY APP</text>
-  <text x="24" y="124" fill="#FFF6F1" font-family="Verdana, Arial, sans-serif" font-size="33" font-weight="700">CityDiaries</text>
+  <rect x="36" y="30" width="144" height="30" rx="15" fill="url(#chip)" stroke="#FFB08C" stroke-opacity="0.18"/>
+  <text x="59" y="50" fill="#FFD8C6" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.3">SHOWCASE / 02</text>
 
-  <text x="24" y="156" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="16">Share city hotspots, memories, photos,</text>
-  <text x="24" y="178" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="16">comments, and places worth revisiting</text>
-  <text x="24" y="200" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="16">through a full-stack social travel diary.</text>
+  <text x="36" y="96" fill="#FFC3A5" font-family="Verdana, Arial, sans-serif" font-size="15" letter-spacing="1.3">TRAVEL DISCOVERY APP</text>
+  <text x="36" y="154" fill="#FFF6F1" font-family="Verdana, Arial, sans-serif" font-size="58" font-weight="700">CityDiaries</text>
+  <text x="36" y="194" fill="#FFE2D5" font-family="Verdana, Arial, sans-serif" font-size="22">Social travel diary for sharing hotspots, photos, memories,</text>
+  <text x="36" y="224" fill="#FFE2D5" font-family="Verdana, Arial, sans-serif" font-size="22">comments, and places worth revisiting.</text>
 
-  <rect x="24" y="220" width="88" height="24" rx="12" fill="#5D1F24" stroke="#FFB08B" stroke-opacity="0.22"/>
-  <text x="45" y="236" fill="#FFF0E8" font-family="Verdana, Arial, sans-serif" font-size="12">MongoDB</text>
-  <rect x="118" y="220" width="82" height="24" rx="12" fill="#5D1F24" stroke="#FFB08B" stroke-opacity="0.22"/>
-  <text x="142" y="236" fill="#FFF0E8" font-family="Verdana, Arial, sans-serif" font-size="12">Express</text>
-  <rect x="206" y="220" width="82" height="24" rx="12" fill="#5D1F24" stroke="#FFB08B" stroke-opacity="0.22"/>
-  <text x="235" y="236" fill="#FFF0E8" font-family="Verdana, Arial, sans-serif" font-size="12">Node.js</text>
-  <text x="317" y="236" fill="#FFD1BA" font-family="Verdana, Arial, sans-serif" font-size="12" letter-spacing="1.2">OPEN REPO -&gt;</text>
+  <path d="M726 214H1084" fill="none" stroke="#FFB08C" stroke-opacity="0.16" stroke-width="1.5"/>
+  <text x="726" y="250" fill="#FFD4C0" font-family="Verdana, Arial, sans-serif" font-size="19">MongoDB • EJS • Express • Node.js</text>
 </svg>
