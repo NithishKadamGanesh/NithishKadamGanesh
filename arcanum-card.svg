@@ -1,53 +1,64 @@
-<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="860" height="300" viewBox="0 0 860 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Arcanum showcase card</title>
-  <desc id="desc">A futuristic project card for Arcanum, a live event puzzle platform.</desc>
+  <desc id="desc">A clean large-format showcase card for Arcanum.</desc>
   <defs>
-    <linearGradient id="bg" x1="20" y1="10" x2="400" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#08141F"/>
-      <stop offset="0.55" stop-color="#0B2740"/>
-      <stop offset="1" stop-color="#07121B"/>
+    <linearGradient id="bg" x1="20" y1="20" x2="840" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08131C"/>
+      <stop offset="0.56" stop-color="#0B2336"/>
+      <stop offset="1" stop-color="#09141D"/>
     </linearGradient>
-    <linearGradient id="pill" x1="22" y1="20" x2="150" y2="52" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#123452"/>
-      <stop offset="1" stop-color="#0C2438"/>
+    <linearGradient id="statA" x1="510" y1="82" x2="610" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102E45"/>
+      <stop offset="1" stop-color="#0D2232"/>
     </linearGradient>
-    <radialGradient id="haloA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 72) rotate(20) scale(92 78)">
-      <stop stop-color="#27D7FF" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#27D7FF" stop-opacity="0"/>
+    <linearGradient id="statB" x1="628" y1="82" x2="728" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14382E"/>
+      <stop offset="1" stop-color="#0B241D"/>
+    </linearGradient>
+    <linearGradient id="statC" x1="746" y1="82" x2="826" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#362617"/>
+      <stop offset="1" stop-color="#1D150E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(686 42) rotate(25) scale(190 120)">
+      <stop stop-color="#26D7FF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#26D7FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="haloB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(338 190) rotate(0) scale(120 88)">
-      <stop stop-color="#80F5D5" stop-opacity="0.22"/>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(794 232) rotate(0) scale(160 110)">
+      <stop stop-color="#80F5D5" stop-opacity="0.18"/>
       <stop offset="1" stop-color="#80F5D5" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#74D7FF" stroke-opacity="0.12" stroke-width="1"/>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#74D7FF" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="420" height="260" rx="28" fill="url(#bg)"/>
-  <rect width="420" height="260" rx="28" fill="url(#grid)"/>
-  <rect x="1" y="1" width="418" height="258" rx="27" fill="none" stroke="#8BE5FF" stroke-opacity="0.18"/>
+  <rect width="860" height="300" rx="32" fill="url(#bg)"/>
+  <rect width="860" height="300" rx="32" fill="url(#grid)"/>
+  <rect x="1" y="1" width="858" height="298" rx="31" fill="none" stroke="#87E5FF" stroke-opacity="0.16"/>
 
-  <circle cx="330" cy="72" r="90" fill="url(#haloA)"/>
-  <circle cx="338" cy="190" r="106" fill="url(#haloB)"/>
-  <circle cx="333" cy="105" r="52" fill="none" stroke="#88E5FF" stroke-opacity="0.55" stroke-width="2"/>
-  <circle cx="333" cy="105" r="72" fill="none" stroke="#88E5FF" stroke-opacity="0.22" stroke-width="1.5"/>
-  <circle cx="333" cy="105" r="18" fill="#8BE5FF" fill-opacity="0.16" stroke="#9CF0FF" stroke-opacity="0.40"/>
-  <path d="M286 160C306 142 325 136 343 140C360 144 375 157 388 182" fill="none" stroke="#88E5FF" stroke-opacity="0.42" stroke-width="2"/>
-  <path d="M300 182C316 170 334 165 355 166C372 167 386 173 396 182" fill="none" stroke="#7EF8D2" stroke-opacity="0.34" stroke-width="2"/>
+  <circle cx="686" cy="42" r="188" fill="url(#glowA)"/>
+  <circle cx="794" cy="232" r="142" fill="url(#glowB)"/>
 
-  <rect x="24" y="22" width="128" height="30" rx="15" fill="url(#pill)" stroke="#7AD9FF" stroke-opacity="0.22"/>
-  <text x="42" y="42" fill="#9CEAFF" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.4">SHOWCASE 01</text>
-  <text x="24" y="86" fill="#79CFFF" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.1">LIVE EVENT PLATFORM</text>
-  <text x="24" y="124" fill="#F5FBFF" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700">Arcanum</text>
+  <rect x="34" y="34" width="144" height="32" rx="16" fill="#0F2435" stroke="#7CDFFF" stroke-opacity="0.20"/>
+  <text x="58" y="55" fill="#9DEBFF" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.4">SHOWCASE / 01</text>
 
-  <text x="24" y="156" fill="#D9ECF7" font-family="Verdana, Arial, sans-serif" font-size="16">Immersive university puzzle platform</text>
-  <text x="24" y="178" fill="#D9ECF7" font-family="Verdana, Arial, sans-serif" font-size="16">for a 10-hour live event with hints,</text>
-  <text x="24" y="200" fill="#D9ECF7" font-family="Verdana, Arial, sans-serif" font-size="16">leaderboards, and answer feedback.</text>
+  <text x="34" y="104" fill="#88D8FF" font-family="Verdana, Arial, sans-serif" font-size="15" letter-spacing="1.3">LIVE PUZZLE PLATFORM</text>
+  <text x="34" y="156" fill="#F7FCFF" font-family="Verdana, Arial, sans-serif" font-size="54" font-weight="700">Arcanum</text>
+  <text x="34" y="195" fill="#D6E8F3" font-family="Verdana, Arial, sans-serif" font-size="22">Immersive event platform with hints, leaderboards,</text>
+  <text x="34" y="226" fill="#D6E8F3" font-family="Verdana, Arial, sans-serif" font-size="22">auth flows, and answer-feedback systems.</text>
 
-  <rect x="24" y="220" width="92" height="24" rx="12" fill="#10283C" stroke="#8BE5FF" stroke-opacity="0.22"/>
-  <text x="42" y="236" fill="#DDF8FF" font-family="Verdana, Arial, sans-serif" font-size="12">140+ players</text>
-  <rect x="124" y="220" width="124" height="24" rx="12" fill="#10283C" stroke="#8BE5FF" stroke-opacity="0.22"/>
-  <text x="146" y="236" fill="#DDF8FF" font-family="Verdana, Arial, sans-serif" font-size="12">12K+ submissions</text>
-  <text x="306" y="236" fill="#8BE5FF" font-family="Verdana, Arial, sans-serif" font-size="12" letter-spacing="1.2">OPEN ORG -&gt;</text>
+  <rect x="506" y="82" width="100" height="118" rx="24" fill="url(#statA)" stroke="#87E5FF" stroke-opacity="0.14"/>
+  <text x="536" y="132" fill="#F7FCFF" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700">140+</text>
+  <text x="528" y="162" fill="#C9DFEB" font-family="Verdana, Arial, sans-serif" font-size="16">players</text>
+
+  <rect x="624" y="82" width="100" height="118" rx="24" fill="url(#statB)" stroke="#7EF8D2" stroke-opacity="0.14"/>
+  <text x="654" y="132" fill="#F7FCFF" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700">90+</text>
+  <text x="638" y="162" fill="#C9DFEB" font-family="Verdana, Arial, sans-serif" font-size="16">concurrent</text>
+
+  <rect x="742" y="82" width="100" height="118" rx="24" fill="url(#statC)" stroke="#FFD86B" stroke-opacity="0.14"/>
+  <text x="768" y="132" fill="#FFFDF6" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700">12K+</text>
+  <text x="762" y="162" fill="#E7D7BF" font-family="Verdana, Arial, sans-serif" font-size="16">submits</text>
+
+  <path d="M514 234H836" fill="none" stroke="#87E5FF" stroke-opacity="0.16" stroke-width="1.5"/>
+  <text x="514" y="264" fill="#9DEBFF" font-family="Verdana, Arial, sans-serif" font-size="18">React . FastAPI . PostgreSQL . SQLAlchemy</text>
 </svg>
