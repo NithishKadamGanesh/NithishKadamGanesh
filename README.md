@@ -1,147 +1,115 @@
-<p>
-  <!-- the full-width banner -->
-  <img 
-    src="./top.png" 
-    alt="Top Banner" 
-    width="100%" 
-    height="120" 
-  />
-  <!-- your personal logo, floated right -->
-  <img 
-    src="./Logo.png" 
-    alt="NK Logo" 
-    align="Left" 
-    width="80" 
-  />
+<div align="center">
+  <img src="./hero-panel.svg" alt="Nithish Kadam Ganesh hero panel" width="100%" />
+</div>
+
+<p align="center">
+  <a href="./Nithish_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Open_PDF-1F8A70?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.nithishkadam.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nithishkadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nithishkadam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-# 👋 Hey, I'm Nithish  
+<p align="center">
+  Backend-heavy systems, cloud architecture, and product-grade interfaces.
+</p>
 
-🎓 MS in Computer Science @ Northeastern (GPA 4.0)  
-💼 Software Engineer | Wintergreen Intern | Ex–Manhattan Associates  
-☁️ AWS Certified Solutions Architect – Associate  
-🔗 [![Resume](https://img.shields.io/badge/Resume-PDF-brightgreen)](./Nithish_Resume.pdf) 
+```bash
+$ profile --now
 
-## 🚀 Projects
+name        : Nithish Kadam Ganesh
+role        : backend + full-stack engineer
+studying    : M.S. Computer Science @ Northeastern University
+experience  : Wintergreen | Manhattan Associates
+focus       : distributed systems, APIs, cloud, and polished product experiences
+status      : open to software engineering roles
+```
+
+## Build Mode
+
+I like building software that is strong on both sides of the screen: backend systems that hold up under pressure and user experiences that feel intentional instead of incidental.
+
+My recent work spans healthcare reporting systems, distributed warehouse workflows, and projects like Arcanum, where I helped build a live event platform that handled 140+ registrations, 90+ concurrent users, and 12K+ submissions across a 10-hour puzzle competition.
+
+## Showcase Projects
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1AKNWGgQdB1jVgxHdhj1Srup5VytUzIPE/view">
-        <img src="./citydiariesImage.jpeg" alt="CityDiaries" width="200px" />
-      </a><br><br>
-      <b>CityDiaries</b><br>
-      <sub>
-        A travel diary app to share, discover, and comment on hotspots.<br>
-        <b>Stack:</b> MongoDB · EJS · JavaScript · Express.js · AJAX · Node.js<br>
-        🔗 <a href="https://github.com/NithishKadamGanesh/CityDiaries">GitHub Repo</a> |
-        📽️ <a href="https://drive.google.com/file/d/1AKNWGgQdB1jVgxHdhj1Srup5VytUzIPE/view">Video Demo</a>
-      </sub>
+    <td width="33%" valign="top">
+      <a href="https://github.com/Arcanum-CTF">
+        <img src="./arcanum-card.svg" alt="Arcanum showcase card" width="100%" />
+      </a>
     </td>
-    <td align="center" width="100px">
-      <a href="https://drive.google.com/file/d/1RtRBs0T4OZkdz-leR3FLga_iukto22Cb/view">
-        <img src="./FudgetImage.png" alt="Fudget" width="50%" />
-      </a><br><br>
-      <b>Fudget</b><br>
-      <sub>
-        A recipe app that detects ingredients & recommends recipes <br>
-        <b>Stack:</b> Swift · CreateML · REST APIs<br>
-        🔗 <a href="https://github.com/NithishKadamGanesh/Fudget">GitHub Repo</a> |
-        📽️ <a href="https://drive.google.com/file/d/1RtRBs0T4OZkdz-leR3FLga_iukto22Cb/view">Video Demo</a>
-      </sub>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NithishKadamGanesh/CityDiaries">
+        <img src="./citydiaries-card.svg" alt="CityDiaries showcase card" width="100%" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/NithishKadamGanesh/Fudget">
+        <img src="./fudget-card.svg" alt="Fudget showcase card" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
 
-
-## 💻 Programming Languages  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"      height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"    height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"          height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      height="40"/> <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"      height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"              height="40"/>
+<p align="center">
+  <sub>Arcanum currently links to the public GitHub organization page.</sub>
 </p>
 
-## 🛠️ Frameworks & Libraries  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"   height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"       height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"   height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"           height="40"/>
-  <img src="./createML.png" height="50" alt="Create ML"/>
-  <img src="./coreML.png"   height="50" alt="Core ML"/>
+## Stack Constellation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
-## 🗄️ Databases & Cloud  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"                   height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"                 height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"                     height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"                   height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"           height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"                     height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-  <img src="./cloudinary.jpg"    height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"         height="40"/>
+## Experience Pulse
+
+| Phase | Build highlights |
+| --- | --- |
+| Wintergreen | Built reporting infrastructure and APIs for healthcare workflows with Node.js, Express, JasperReports, React Native, PHP, and Laravel. |
+| Manhattan Associates | Shipped distributed transaction flows, messaging pipelines, and warehouse management enhancements for global clients. |
+| Northeastern University | Pursuing an M.S. in Computer Science with coursework in Algorithms, AI, Database Systems, NLP, and Scalable Distributed Systems. |
+
+## Signal Outside Work
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chelsea_FC-034694?style=for-the-badge&logoColor=white" alt="Chelsea FC" />
+  <img src="https://img.shields.io/badge/Formula_1-111111?style=for-the-badge&logo=formula1&logoColor=white" alt="Formula 1" />
+  <img src="https://img.shields.io/badge/RCB-A50044?style=for-the-badge&logoColor=white" alt="RCB" />
+  <img src="https://img.shields.io/badge/Boxing-Bronze_Medalist-8C4A2F?style=for-the-badge&logoColor=white" alt="Boxing" />
+  <img src="https://img.shields.io/badge/Manga_and_Manhwa-Reading_Mode-0F172A?style=for-the-badge&logoColor=white" alt="Manga and Manhwa" />
 </p>
 
-## ⚙️ Tools & Technologies  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"              height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"          height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"      height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"            height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"      height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"        height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"          height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"   height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"      height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"  height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"        height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-plain.svg"            height="40"/>
-</p>
-
-## 📜 Certifications   
-<p align="left">
-  <a href="https://www.credly.com/badges/0fc14dba-6af4-4cba-8aee-074ec4a24aa1/public_url" target="_blank">
-    <!-- your local PNG -->
-    <img 
-      src="./aws-certified-solutions-architect-associate.png" 
-      alt="AWS Certified Solutions Architect – Associate" 
-      width="40" 
-      style="vertical-align: middle;"
-    />
-    <!-- shields.io badge as an <img> -->
-    <img 
-      src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?logo=amazon-aws&logoColor=white" 
-      alt="AWS CSA – Associate" 
-      style="vertical-align: middle; margin-left: 8px;"
-    />
+<p align="center">
+  <a href="https://github.com/NithishKadamGanesh">
+    <img src="https://img.shields.io/badge/GitHub-NithishKadamGanesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-
-## ✨ Fun Facts  
-- ⚽ Die-hard Chelsea FC fan—there’s nothing like the roar at Stamford Bridge when “Blue is the Colour” hits!  
-- 🏎️ Formula 1 fan, especially Max Verstappen’s precision on track.  
-- 🏏 Loyal RCB supporter—through every IPL high and low, I back the Men in Red with unwavering passion.  
-- 🥊 State amateur boxing bronze medalist—ring-tested and always up for a new challenge.
-- 📖 Manga & Manhwa fan—always chasing the next epic chapter. 
-
-## ☕ Let's Connect  
-<p align="center">
-  <a href="https://github.com/NithishKadamGanesh"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nithishkadam/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:nithishkadam@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
-</p>
-<!-- Bottom Banner -->
-<p align="center">
-  <img src="./bottom.png" alt="Bottom Banner" height="120" width="100%" />
+  <a href="https://www.linkedin.com/in/nithishkadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nithish_Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nithishkadam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nithishkadam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>

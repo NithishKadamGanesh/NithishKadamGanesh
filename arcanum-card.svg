@@ -1,0 +1,53 @@
+<svg width="420" height="260" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arcanum showcase card</title>
+  <desc id="desc">A futuristic project card for Arcanum, a live event puzzle platform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="10" x2="400" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08141F"/>
+      <stop offset="0.55" stop-color="#0B2740"/>
+      <stop offset="1" stop-color="#07121B"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="22" y1="20" x2="150" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123452"/>
+      <stop offset="1" stop-color="#0C2438"/>
+    </linearGradient>
+    <radialGradient id="haloA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 72) rotate(20) scale(92 78)">
+      <stop stop-color="#27D7FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#27D7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haloB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(338 190) rotate(0) scale(120 88)">
+      <stop stop-color="#80F5D5" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#80F5D5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#74D7FF" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="420" height="260" rx="28" fill="url(#bg)"/>
+  <rect width="420" height="260" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="418" height="258" rx="27" fill="none" stroke="#8BE5FF" stroke-opacity="0.18"/>
+
+  <circle cx="330" cy="72" r="90" fill="url(#haloA)"/>
+  <circle cx="338" cy="190" r="106" fill="url(#haloB)"/>
+  <circle cx="333" cy="105" r="52" fill="none" stroke="#88E5FF" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="333" cy="105" r="72" fill="none" stroke="#88E5FF" stroke-opacity="0.22" stroke-width="1.5"/>
+  <circle cx="333" cy="105" r="18" fill="#8BE5FF" fill-opacity="0.16" stroke="#9CF0FF" stroke-opacity="0.40"/>
+  <path d="M286 160C306 142 325 136 343 140C360 144 375 157 388 182" fill="none" stroke="#88E5FF" stroke-opacity="0.42" stroke-width="2"/>
+  <path d="M300 182C316 170 334 165 355 166C372 167 386 173 396 182" fill="none" stroke="#7EF8D2" stroke-opacity="0.34" stroke-width="2"/>
+
+  <rect x="24" y="22" width="128" height="30" rx="15" fill="url(#pill)" stroke="#7AD9FF" stroke-opacity="0.22"/>
+  <text x="42" y="42" fill="#9CEAFF" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.4">SHOWCASE 01</text>
+  <text x="24" y="86" fill="#79CFFF" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.1">LIVE EVENT PLATFORM</text>
+  <text x="24" y="124" fill="#F5FBFF" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700">Arcanum</text>
+
+  <text x="24" y="156" fill="#D9ECF7" font-family="Verdana, Arial, sans-serif" font-size="16">Immersive university puzzle platform</text>
+  <text x="24" y="178" fill="#D9ECF7" font-family="Verdana, Arial, sans-serif" font-size="16">for a 10-hour live event with hints,</text>
+  <text x="24" y="200" fill="#D9ECF7" font-family="Verdana, Arial, sans-serif" font-size="16">leaderboards, and answer feedback.</text>
+
+  <rect x="24" y="220" width="92" height="24" rx="12" fill="#10283C" stroke="#8BE5FF" stroke-opacity="0.22"/>
+  <text x="42" y="236" fill="#DDF8FF" font-family="Verdana, Arial, sans-serif" font-size="12">140+ players</text>
+  <rect x="124" y="220" width="124" height="24" rx="12" fill="#10283C" stroke="#8BE5FF" stroke-opacity="0.22"/>
+  <text x="146" y="236" fill="#DDF8FF" font-family="Verdana, Arial, sans-serif" font-size="12">12K+ submissions</text>
+  <text x="306" y="236" fill="#8BE5FF" font-family="Verdana, Arial, sans-serif" font-size="12" letter-spacing="1.2">OPEN ORG -&gt;</text>
+</svg>
