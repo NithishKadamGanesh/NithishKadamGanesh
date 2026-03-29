@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Backend engineer focused on APIs, cloud systems, and product experiences that feel clean and deliberate.
+  Backend engineer with a product eye for clean systems, clear interfaces, and practical shipping velocity.
 </p>
 
 ## About
@@ -46,14 +46,12 @@ Recent work includes healthcare reporting systems at Wintergreen and Arcanum, a 
 </table>
 
 <p>
-  <strong>Arcanum</strong> - Live event platform with immersive gameplay, auth, hints, leaderboards, and answer-feedback systems.
-  <a href="https://github.com/Arcanum-CTF">GitHub org</a><br/><br/>
-  <strong>CityDiaries</strong> - Full-stack travel diary app for sharing hotspots, memories, photos, and comments.
-  <a href="https://github.com/NithishKadamGanesh/CityDiaries">Repo</a> ·
-  <a href="https://drive.google.com/file/d/1AKNWGgQdB1jVgxHdhj1Srup5VytUzIPE/view">Demo</a><br/><br/>
-  <strong>Fudget</strong> - Mobile recipe assistant that recognizes ingredients and suggests meals using ML.
-  <a href="https://github.com/NithishKadamGanesh/Fudget">Repo</a> ·
-  <a href="https://drive.google.com/file/d/1RtRBs0T4OZkdz-leR3FLga_iukto22Cb/view">Demo</a>
+  <strong>Arcanum</strong><br/>
+  Live event platform with immersive gameplay, auth, hints, leaderboards, and answer-feedback systems.<br/><br/>
+  <strong>CityDiaries</strong><br/>
+  Full-stack travel diary app for sharing hotspots, memories, photos, and comments.<br/><br/>
+  <strong>Fudget</strong><br/>
+  Mobile recipe assistant that recognizes ingredients and suggests meals using ML.
 </p>
 
 ## What I Work With

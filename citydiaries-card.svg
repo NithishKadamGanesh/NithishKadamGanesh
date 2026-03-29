@@ -1,14 +1,14 @@
-<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="420" height="240" viewBox="0 0 420 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">CityDiaries showcase card</title>
   <desc id="desc">A clean showcase card for CityDiaries.</desc>
   <defs>
-    <linearGradient id="bg" x1="20" y1="10" x2="390" y2="210" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="20" y1="10" x2="390" y2="230" gradientUnits="userSpaceOnUse">
       <stop stop-color="#2C1114"/>
       <stop offset="0.48" stop-color="#5B1F26"/>
       <stop offset="1" stop-color="#2A1012"/>
     </linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(332 76) rotate(45) scale(104 76)">
-      <stop stop-color="#FF926F" stop-opacity="0.30"/>
+      <stop stop-color="#FF926F" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#FF926F" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
@@ -16,22 +16,24 @@
     </pattern>
   </defs>
 
-  <rect width="420" height="220" rx="28" fill="url(#bg)"/>
-  <rect width="420" height="220" rx="28" fill="url(#grid)"/>
-  <rect x="1" y="1" width="418" height="218" rx="27" fill="none" stroke="#FFB08B" stroke-opacity="0.16"/>
+  <rect width="420" height="240" rx="28" fill="url(#bg)"/>
+  <rect width="420" height="240" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="418" height="238" rx="27" fill="none" stroke="#FFB08B" stroke-opacity="0.16"/>
   <circle cx="332" cy="76" r="94" fill="url(#glow)"/>
 
-  <path d="M286 164C306 145 328 127 350 114C365 105 380 98 392 94" fill="none" stroke="#FFAF8A" stroke-width="3" stroke-opacity="0.70"/>
-  <path d="M289 164C308 179 325 189 341 196C358 202 375 206 394 206" fill="none" stroke="#FFD0B7" stroke-width="2" stroke-opacity="0.40"/>
-  <circle cx="288" cy="164" r="8" fill="#FFF2E8"/>
-  <path d="M340 78C340 94 327 106 311 106C295 106 282 94 282 78C282 62 295 50 311 50C327 50 340 62 340 78Z" fill="none" stroke="#FFD2BA" stroke-opacity="0.60" stroke-width="2"/>
+  <path d="M286 172C306 151 328 131 350 117C365 107 380 99 392 94" fill="none" stroke="#FFAF8A" stroke-width="3" stroke-opacity="0.72"/>
+  <path d="M289 172C308 188 325 199 341 206C358 213 375 217 394 218" fill="none" stroke="#FFD0B7" stroke-width="2" stroke-opacity="0.44"/>
+  <circle cx="288" cy="172" r="8" fill="#FFF2E8"/>
+  <path d="M340 78C340 94 327 106 311 106C295 106 282 94 282 78C282 62 295 50 311 50C327 50 340 62 340 78Z" fill="none" stroke="#FFD2BA" stroke-opacity="0.64" stroke-width="2"/>
   <circle cx="311" cy="78" r="6" fill="#FFD6C1"/>
 
   <rect x="24" y="24" width="144" height="30" rx="15" fill="#5C1F25" stroke="#FFB08B" stroke-opacity="0.18"/>
   <text x="48" y="44" fill="#FFD7C4" font-family="Verdana, Arial, sans-serif" font-size="13" letter-spacing="1.3">SHOWCASE / 02</text>
-  <text x="24" y="88" fill="#FFBF9E" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">TRAVEL DISCOVERY APP</text>
-  <text x="24" y="128" fill="#FFF6F1" font-family="Verdana, Arial, sans-serif" font-size="34" font-weight="700">CityDiaries</text>
-  <text x="24" y="160" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="17">Social travel diary for hotspots, photos,</text>
-  <text x="24" y="184" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="17">memories, and comments.</text>
-  <text x="24" y="206" fill="#FFD1BA" font-family="Verdana, Arial, sans-serif" font-size="16">MongoDB . Express . Node.js</text>
+  <text x="24" y="90" fill="#FFBF9E" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="1.1">TRAVEL DISCOVERY APP</text>
+  <text x="24" y="132" fill="#FFF6F1" font-family="Verdana, Arial, sans-serif" font-size="36" font-weight="700">CityDiaries</text>
+
+  <text x="24" y="164" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="18">Travel diary experience for saving hotspots,</text>
+  <text x="24" y="190" fill="#FFE2D4" font-family="Verdana, Arial, sans-serif" font-size="18">photos, memories, and comments.</text>
+
+  <text x="24" y="220" fill="#FFD1BA" font-family="Verdana, Arial, sans-serif" font-size="17">MongoDB . Express . Node.js</text>
 </svg>
