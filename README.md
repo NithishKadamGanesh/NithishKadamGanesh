@@ -9,7 +9,7 @@
   ·
   <a href="https://www.linkedin.com/in/nithishkadam/">linkedin</a>
   ·
-  <a href="mailto:nithishkadam@gmail.com">email</a>
+  <a href="mailto:nithishkadamganesh@gmail.com">email</a>
 </p>
 
 <p align="center">
